@@ -29,4 +29,4 @@ Code: Apache-2.0. Notes and reports: CC BY 4.0.
 
 Ricardo W. C. Guerra Filho, electrical engineer (CREA/PB), M.Sc. in Optimization of Energy Systems, load forecasting engineer at Brazil's national system operator. Author of [*Outlier Detection and Correction in Smart Grid Energy Demand Data Using Sparse Autoencoders*, Energies 2024, 17(24), 6403](https://www.mdpi.com/1996-1073/17/24/6403). The analyses here are his own and rely on public data only.
 
-Website: [cardinalgrid.com](https://cardinalgrid.com) · Contact: contact@cardinalgrid.com
+Website: [cardinalgrid.com](https://cardinalgrid.com) · ORCID: [0000-0001-6699-9951](https://orcid.org/0000-0001-6699-9951) · Contact: contact@cardinalgrid.com
