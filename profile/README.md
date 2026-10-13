@@ -11,8 +11,9 @@ The starting point is simple. Since 2015, every balancing authority in the conti
 | Repository | What it is | Status |
 |---|---|---|
 | [`ba-forecast-scorecard`](https://github.com/cardinalgrid/ba-forecast-scorecard) | Daily scoring of every U.S. balancing authority's own day-ahead load forecast from EIA-930 public data, 2015 to today: error by BA, season and named event, with explicit data-quality rules. | Live, updated daily. [DOI 10.5281/zenodo.22697386](https://doi.org/10.5281/zenodo.22697386) |
-| [`grid-data-sentinel`](https://github.com/cardinalgrid/grid-data-sentinel) | Python package for detecting and correcting anomalies in load telemetry while keeping the genuine extremes, with an audit trail. Based on the methods from my M.Sc. thesis and my 2024 paper. | v0.1 October 2026 |
-| [`notes`](https://github.com/cardinalgrid/notes) | Short, reproducible technical notes on U.S. forecasting and data-quality problems, each with its code and a DOI. | Note 1 in review |
+| [`grid-data-sentinel`](https://github.com/cardinalgrid/grid-data-sentinel) | Python package for detecting and correcting anomalies in load telemetry while keeping the genuine extremes, with an audit trail, in batch or streaming. Based on the methods from my M.Sc. thesis and my 2024 paper. | v0.4.0. [DOI 10.5281/zenodo.22726013](https://doi.org/10.5281/zenodo.22726013) (all versions) |
+| [`ba-load-forecast`](https://github.com/cardinalgrid/ba-load-forecast) | An open day-ahead load forecaster built only from public data (EIA-930 demand, NOAA HRRR, NBM and GFS weather forecasts), run unchanged on 43 balancing authorities and scored against each one's own forecast, with every rule and every rejected test documented. | v1.0.0. [DOI 10.5281/zenodo.23327586](https://doi.org/10.5281/zenodo.23327586) |
+| [`notes`](https://github.com/cardinalgrid/notes) | Short, reproducible technical notes on U.S. forecasting and data-quality problems, each with its code and a DOI. Plain-language versions at [cardinalgrid.com/notes](https://cardinalgrid.com/notes). | Four notes published |
 
 ## How I work
 
